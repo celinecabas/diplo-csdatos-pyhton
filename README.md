@@ -1,2 +1,2 @@
-# diplo-csdatos-pyhton
+# Diplomatura en Ciencias de Datos con Python
 Material del módulo 2 de Probabilidad y Estadística - Diplomatura en Ciencia de Datos UNNE FaCENA 
